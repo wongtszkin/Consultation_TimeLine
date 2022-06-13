@@ -1,2 +1,5 @@
 spacy
 streamlit
+numpy
+matplotlib
+pandas
